@@ -1,0 +1,11 @@
+C:\Users\Dustin\source\repos\NumberGuesser\bin\Debug\netcoreapp2.0\NumberGuesser.deps.json
+C:\Users\Dustin\source\repos\NumberGuesser\bin\Debug\netcoreapp2.0\NumberGuesser.runtimeconfig.json
+C:\Users\Dustin\source\repos\NumberGuesser\bin\Debug\netcoreapp2.0\NumberGuesser.runtimeconfig.dev.json
+C:\Users\Dustin\source\repos\NumberGuesser\bin\Debug\netcoreapp2.0\NumberGuesser.dll
+C:\Users\Dustin\source\repos\NumberGuesser\bin\Debug\netcoreapp2.0\NumberGuesser.pdb
+C:\Users\Dustin\source\repos\NumberGuesser\obj\Debug\netcoreapp2.0\NumberGuesser.csprojResolveAssemblyReference.cache
+C:\Users\Dustin\source\repos\NumberGuesser\obj\Debug\netcoreapp2.0\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Dustin\source\repos\NumberGuesser\obj\Debug\netcoreapp2.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\Dustin\source\repos\NumberGuesser\obj\Debug\netcoreapp2.0\NumberGuesser.AssemblyInfo.cs
+C:\Users\Dustin\source\repos\NumberGuesser\obj\Debug\netcoreapp2.0\NumberGuesser.dll
+C:\Users\Dustin\source\repos\NumberGuesser\obj\Debug\netcoreapp2.0\NumberGuesser.pdb
